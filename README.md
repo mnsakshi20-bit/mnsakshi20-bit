@@ -1,13 +1,14 @@
 ## Hi there 👋 , I'm Sakshi M N.
 I am a Computer Science Engineering Student.
 Interested in Java Full Stack Development.
+I have basic foundation in Machine learning , Computer Networks.
 Currently Learning Java , Spring boot ,  Data Structures and Algorithms.
 
 ## Skills
-- Java
 - HTML & CSS
-- SQL
-- Cloud
+- python + Django
+- java with Springboot(basic)
+
 
  ## Projects
  -Coronary Heart Disease Risk Assessment
